@@ -2,3 +2,4 @@ welcome
 rice
 cake
 fruits
+ice cream
